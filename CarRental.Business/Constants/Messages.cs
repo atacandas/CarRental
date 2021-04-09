@@ -25,7 +25,7 @@ namespace CarRental.Business.Constants
         public static string UserUpdated = "User successfully updated.";
         public static string UserDelete = "User successfully deleted.";
 
-        public static string AuthorizationDenied = "Authorization Denied";
+        public static string AuthorizationDenied = "Authorization Denied.";
 
         public static string UserRegistered = "User succesfully registered.";
         public static string UserNotFound = "User not found.";
