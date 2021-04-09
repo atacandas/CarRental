@@ -17,9 +17,9 @@ namespace CarRental.Business.Constants
         public static string ColorDeleted = "Color successfully deleted.";
         public static string ColorUpdated = "Color successfully updated.";
 
-        public static string CarAdded = "Car successfull added.";
-        public static string CarUpdated = "Car successfull updated.";
-        public static string CarDeleted = "Car successfull deleted.";
+        public static string CarAdded = "Car successfully added.";
+        public static string CarUpdated = "Car successfully updated.";
+        public static string CarDeleted = "Car successfully deleted.";
 
         public static string UserAdded = "User successfully added.";
         public static string UserUpdated = "User successfully updated.";
